@@ -19,7 +19,6 @@ The only thing to note after downloading this is that some parts might be outdat
 Peter Ekler, AIT Budapest
 
 ### Images
-
-
-
-
+![1](https://user-images.githubusercontent.com/25356323/42200418-f5326662-7e47-11e8-8c77-5057bbce02b7.png)
+![2](https://user-images.githubusercontent.com/25356323/42200419-f555ad84-7e47-11e8-946d-416a96a2c7fa.png)
+![3](https://user-images.githubusercontent.com/25356323/42200420-f57da924-7e47-11e8-9f74-c5060b122e9d.png)
